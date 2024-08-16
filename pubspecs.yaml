@@ -1,0 +1,14 @@
+name: my_radio_app
+description: Un'app Flutter per ascoltare una web radio
+
+environment:
+  sdk: '^3.5.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^2.0.0
+  just_audio_background: ^0.3.0
+
+flutter:
+  uses-material-design: true
